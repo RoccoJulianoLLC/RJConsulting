@@ -1,0 +1,8 @@
+---
+layout: default
+img: dog.png
+category: Services
+title: Desktop
+description: describe this
+---
+  Make sure your website looks good on desktops too!

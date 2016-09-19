@@ -1,0 +1,8 @@
+---
+layout: default
+img: ipad.png
+category: Services
+title: Tablet questions?
+description: |
+---
+  Get answers to those pressing questions about the magical devices we call tablets!

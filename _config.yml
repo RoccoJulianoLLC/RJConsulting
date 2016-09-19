@@ -1,0 +1,30 @@
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: http://roccojuliano.com
+title: RJ Consulting
+email: theboss@roccojuliano.com
+author: Rocco Juliano
+description: > # "Write an awesome description for your new site here. 
+  One stop for all the IT advice you'll ever need.
+copyright: 'Copyright &copy; 2016 Rocco Juliano, LLC. All Rights Reserved.'
+credits: 'Crafted with care by Rocco Juliano.'
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+
+social:
+  - title: twitter
+    url: https://twitter.com/roccojuliano
+  - title: github
+    url: https://github.com/MrSco
